@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="favicon-cube">
+    <title>UK Commercial Flooring Icon</title>
+    <!-- Top Face - Brand Orange -->
+    <path d="M256 64L448 176L256 288L64 176L256 64Z" fill="#ff8c42"/>
+    
+    <!-- Right Face - Brand Navy -->
+    <path d="M256 288L448 176V400L256 512V288Z" fill="#1a2332"/>
+    
+    <!-- Left Face - Brand Grey -->
+    <path d="M64 176L256 288V512L64 400V176Z" fill="#4a5568"/>
+    
+    <!-- Subtle overlay for depth/gloss effect -->
+    <path d="M256 64L448 176L256 288L64 176L256 64Z" fill="white" fill-opacity="0.1"/>
+  </g>
+</svg>
