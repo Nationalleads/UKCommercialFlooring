@@ -1,189 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ==================== CORE PAGES ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/</loc>
-    <lastmod>2026-02-22</lastmod>
+    <lastmod>2026-02-24</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <priority>1.0</priority>
   </url>
+
+  <!-- ==================== SERVICE PAGES (PRIMARY) ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/epoxy-flooring</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/latex-flooring</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/shot-blasting</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/shot-blasting-grinding</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/liquid-screed</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/concrete-grinding</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/floor-repairs-scabbling</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
+
+  <!-- ==================== SERVICE PAGES (LEGACY ALIASES) ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/services/epoxy</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/services/latex</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/services/shot-blasting</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/services/liquid-screed</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
+
+  <!-- ==================== SEO LANDING PAGES ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/industrial-epoxy-flooring</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/commercial-latex-flooring</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
+
+  <!-- ==================== LOCATIONS HUB ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/locations</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/locations-index</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
+
+  <!-- ==================== MAJOR CITY PAGES ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/birmingham</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/london</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/manchester</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/leeds</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/glasgow</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/bristol</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/coventry</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
+
+  <!-- ==================== BIRMINGHAM SUB-LOCATIONS ==================== -->
+  <!-- Add your /birmingham/:slug pages below as they are created -->
+  <!-- Example:
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/birmingham/edgbaston</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  -->
+
+  <!-- ==================== DYNAMIC LOCATION PAGES ==================== -->
+  <!-- Add your /locations/:citySlug pages below as they are created -->
+  <!-- Example:
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/locations/sheffield</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+
+  <!-- ==================== BLOG ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/blog</loc>
-    <lastmod>2026-02-22</lastmod>
+    <lastmod>2026-02-24</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <priority>0.8</priority>
   </url>
+  <!-- Add individual blog post slugs below as they are published -->
+  <!-- Example:
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/blog/epoxy-flooring-guide</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  -->
+
+  <!-- ==================== CASE STUDIES ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/case-studies</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
+  <!-- Add individual case study slugs and category pages below -->
+  <!-- Example:
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/case-studies/industrial</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/case-studies/warehouse-epoxy-flooring-birmingham</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  -->
+
+  <!-- ==================== UTILITY PAGES ==================== -->
   <url>
     <loc>https://ukcommercialflooring.co.uk/quote</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://ukcommercialflooring.co.uk/faq</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://ukcommercialflooring.co.uk/cookie-policy</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://ukcommercialflooring.co.uk/privacy-policy</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/contact</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/faq</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/cookie-policy</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://ukcommercialflooring.co.uk/privacy-policy</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://ukcommercialflooring.co.uk/sitemap</loc>
-    <lastmod>2026-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.4</priority>
   </url>
+
 </urlset>
